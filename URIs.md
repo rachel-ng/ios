@@ -29,6 +29,11 @@ Shortcuts > Wallet > `Open Card`
 Chase Bank `ydl://`
 Amex `amexapp://`
 
+[venmo](https://blog.alexbeals.com/posts/venmo-deeplinking)
+
+- `venmo://paycharge`
+- `venmo://users/{username}`
+- `venmo://venmo.com/code?user_id={username}`
 
 ## spotify
 

@@ -7,6 +7,7 @@
 <sub><sup>`$5.99`</sup></sub>&nbsp; [Toolbox Pro for Shortcuts](https://apps.apple.com/us/app/toolbox-pro-for-shortcuts/id1476205977)&emsp; <sub><sup>utilities</sup></sub>  
 <sub><sup>`free`</sup></sub>&nbsp; &nbsp;[Actions](https://apps.apple.com/us/app/actions/id1586435171)&emsp; <sub><sup>similar to Toolbox Pro</sup></sub> 
 
+<sub><sup>`free`</sup></sub>&nbsp; &nbsp;[Shortcut Menus](https://shortcut-menus.jpshlk.com/)
 
 <br>
 
@@ -14,6 +15,7 @@
 
 [r/shortcuts](https://www.reddit.com/r/shortcuts/)
 - [Helpful Links](https://www.reddit.com/r/shortcuts/comments/gzjgbr/list_of_helpful_links_for_shortcuts_information/)
+- [Match Text, Regex Cookbook](https://www.reddit.com/r/shortcuts/comments/b5labq/match_text_examples_for_the_beginner_a_regex/)
 
 
 [JSONPath](https://goessner.net/articles/JsonPath/)
